@@ -14,5 +14,6 @@ public class Customer {
 
     public void print() {
         System.out.println(id + "\t" + cost + "\t" + discount + "\t" + amount);
+
     }
 }
